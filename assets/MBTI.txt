@@ -5,7 +5,7 @@
     	"question":"您的性格是什么?",
     	"quesionId":"1001", 
     	"answers":["外向", "内向"],
-    	"answerstype":["E", "EI"]
+    	"answerstype":["E", "I"]
     },
     {
     	"question":"您的性格是什么?",
